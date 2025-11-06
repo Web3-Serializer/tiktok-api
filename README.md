@@ -318,12 +318,3 @@ Like any large-scale platform, TikTok's API has had its share of security vulner
 These historical examples underscore the immense challenge of securing a platform with such a vast and dynamic API. They show that vulnerabilities can arise not just from cryptographic weaknesses, but also from flawed business logic, improper authorization checks, and insecure handling of user-generated content.
 
 ---
-### Limitations
-
-Don't think that with these signatures you can takeover TikTok 😂
-
-You will need :
-
-    - **Unflagged and (Real) Accounts/Cookies, you can buy them from me :) for 0.10$/unit if you buy in mass.**
-
-    - **MsTokenEnc and MsTokenDec to generate msToken's, Instead of wasting proxy data on generating while getting page source, you can get it from me (pay).**

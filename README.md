@@ -1,5 +1,4 @@
 # TikTok Reverse Engineering - Mobile and Web API
-#### Best TikTok Automation / Scrapping Api https://tikvues.com/apis
 
 A technical overview of TikTok's internal API security, focusing on the various signature algorithms used to authenticate and protect client-server communication. This document is intended for educational and research purposes.
 
